@@ -4,7 +4,7 @@
 
 ## 启动 Shizuku
 
-Shizuku 支持通过以下三种方式启动。
+Shizuku 支持通过以下三种方式启动
 
 ::: tip 如果您正在使用 GrapheneOS
 
